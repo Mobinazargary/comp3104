@@ -1,4 +1,4 @@
-dist: bionic  # Use Ubuntu 18.04
+dist: focal  # Use Ubuntu 20.04 (Focal Fossa)
 language: node_js
 node_js:
   - "stable"
