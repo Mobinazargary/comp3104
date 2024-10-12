@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mobinazargary/comp3104.git/static/css/main.27ca76a1.css",
+    "main.js": "/Mobinazargary/comp3104.git/static/js/main.85bd077f.js",
+    "static/js/453.fc4a4a08.chunk.js": "/Mobinazargary/comp3104.git/static/js/453.fc4a4a08.chunk.js",
+    "index.html": "/Mobinazargary/comp3104.git/index.html",
+    "main.27ca76a1.css.map": "/Mobinazargary/comp3104.git/static/css/main.27ca76a1.css.map",
+    "main.85bd077f.js.map": "/Mobinazargary/comp3104.git/static/js/main.85bd077f.js.map",
+    "453.fc4a4a08.chunk.js.map": "/Mobinazargary/comp3104.git/static/js/453.fc4a4a08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.85bd077f.js"
+  ]
+}
