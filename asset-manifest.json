@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Mobinazargary/comp3104.git/static/css/main.27ca76a1.css",
-    "main.js": "/Mobinazargary/comp3104.git/static/js/main.85bd077f.js",
-    "static/js/453.fc4a4a08.chunk.js": "/Mobinazargary/comp3104.git/static/js/453.fc4a4a08.chunk.js",
-    "index.html": "/Mobinazargary/comp3104.git/index.html",
-    "main.27ca76a1.css.map": "/Mobinazargary/comp3104.git/static/css/main.27ca76a1.css.map",
-    "main.85bd077f.js.map": "/Mobinazargary/comp3104.git/static/js/main.85bd077f.js.map",
-    "453.fc4a4a08.chunk.js.map": "/Mobinazargary/comp3104.git/static/js/453.fc4a4a08.chunk.js.map"
+    "main.css": "/comp3104/static/css/main.27ca76a1.css",
+    "main.js": "/comp3104/static/js/main.c06ec7d2.js",
+    "static/js/453.fc4a4a08.chunk.js": "/comp3104/static/js/453.fc4a4a08.chunk.js",
+    "index.html": "/comp3104/index.html",
+    "main.27ca76a1.css.map": "/comp3104/static/css/main.27ca76a1.css.map",
+    "main.c06ec7d2.js.map": "/comp3104/static/js/main.c06ec7d2.js.map",
+    "453.fc4a4a08.chunk.js.map": "/comp3104/static/js/453.fc4a4a08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27ca76a1.css",
-    "static/js/main.85bd077f.js"
+    "static/js/main.c06ec7d2.js"
   ]
 }
